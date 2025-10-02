@@ -29,7 +29,7 @@ A secure mod manager for AssaultCube with advanced memory protection and compile
 ### Method 2: Terminal Installation
 ```bash
 # Download the installer
-wget https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0/ACMM-Linux-Installer.run
+wget https://github.com/PlayDough1992/AssaultCube-Mod-Manager-Linux/releases/download/mod/ACMM-Linux-Complete.tar.gz
 
 # Make executable and run
 chmod +x ACMM-Linux-Installer.run
