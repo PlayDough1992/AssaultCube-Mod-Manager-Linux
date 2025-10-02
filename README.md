@@ -98,10 +98,6 @@ sudo bash /opt/assaultcube-mod-manager/uninstall.sh
 - Launch AssaultCube first using the mod manager
 - Wait for the game to fully load before connecting
 
-## 📝 License
-
-[Specify your license here - e.g., "Proprietary", "MIT", etc.]
-
 ## 🔗 Links
 
 - **AssaultCube Official**: https://assault.cubers.net/
