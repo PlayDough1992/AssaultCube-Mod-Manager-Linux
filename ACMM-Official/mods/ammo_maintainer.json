@@ -1,0 +1,8 @@
+{
+  "name": "Ammunition Maintainer",
+  "description": "Maintains your ammunition levels automatically.",
+  "created_by": "ACMM-Linux",
+  "officially_supported": true,
+  "source_code_available": true,
+  "source_code_file": "ammo_maintainer.lua"
+}
